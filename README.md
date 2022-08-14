@@ -1,6 +1,6 @@
-# Projet-Airbnb-France
-# Projet académique sur la Covid19-France
-Analyse descriptive des données Airbnb en France en Python (Numpy, Pandas ,Matplotlib, folium).
+# Project-Airbnb-France
+# Academic Project  on Covid19-France
+Descriptive analysis of Airbnb data in France in Python (Numpy, Pandas ,Matplotlib, folium).
 
 Les données proviennent des dataset mis à disposition par Airbnb get the data : http://insideairbnb.com/get-the-data.html
 
